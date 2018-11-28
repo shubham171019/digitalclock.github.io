@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+#clock{
+    color: black;
+    font-size: 145px;
+    background-color: blanchedalmond;
+    padding: 10px;
+    width: 60%;
+    margin-left: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 200px;
+    
+    
+}
